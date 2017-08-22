@@ -1,2 +1,4 @@
 # CryptoLoveLetters
-Love Letters to the people I despise secretly
+
+Letters to the people I despise secretly
+With Love, using esoteric languages such as Brainfuck
